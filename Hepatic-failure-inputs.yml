@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/hepatic-failure-compensation---primary.py
+inputModule3:
+  class: File
+  path: python/viral-hepatic-failure---primary.py
+inputModule4:
+  class: File
+  path: python/hepatic-failure-specified---primary.py
+inputModule5:
+  class: File
+  path: python/hepatic-failure-subacute---primary.py
+inputModule6:
+  class: File
+  path: python/hepatic-failure-atrophy---primary.py
+inputModule7:
+  class: File
+  path: python/hepatic-failure---primary.py
+inputModule8:
+  class: File
+  path: python/failure---primary.py
+inputModule9:
+  class: File
+  path: python/hepatic-failure-liver---primary.py
+inputModule10:
+  class: File
+  path: python/hepatic-failure-necrosis---primary.py
+inputModule11:
+  class: File
+  path: python/hepatic-failure-complication---primary.py
+inputModule12:
+  class: File
+  path: python/hepatic-failure---secondary.py
+inputModule13:
+  class: File
+  path: python/hepatic-failure-necrosis---secondary.py
+inputModule14:
+  class: File
+  path: python/hepatic-failure-liver---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
